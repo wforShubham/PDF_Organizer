@@ -1,1 +1,0 @@
-print("Shubham yani ki mein, mein yaani ki shubham, Mein hu gandi")
